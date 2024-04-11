@@ -1,7 +1,7 @@
 
 ## About me
 
-- [Website](mardin.cc)
+- [Website](https://mardin.cc)
 - Freelancer
 - Full-stack developer
 

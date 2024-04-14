@@ -1,15 +1,20 @@
 
 ## About me
 
-- [Website](https://mardin.cc)
 - Freelancer
 - Full-stack developer
 
-## Projects
+### Projects
 
 - [Musica](https://github.com/krr0ption/musica)
 - [Marzneshin](https://github.com/krr0ption/marzneshin)
 
-## Open Source Contribution
+### Open Source Contribution
 
 - Well, we will see
+
+### Contacts
+
+- [Website](https://mardin.cc)
+- [info@mardin.cc](mailto:info@mardin.cc)
+

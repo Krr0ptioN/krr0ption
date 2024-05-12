@@ -6,7 +6,7 @@
 
 ### Projects
 
-- [Musica](https://github.com/krr0ption/musica)
+- [Marzneshin](https://github.com/khodedawsh/marzneshin)
 - [Goran](https://github.com/krr0ption/goran)
 
 ### Open Source Contribution

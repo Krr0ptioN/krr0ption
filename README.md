@@ -4,8 +4,6 @@
   <a href="https://x.com/intent/follow?screen_name=mardincc" target="_blank">X</a>
 </div>
 
-<br>
-
 ### Projects
 
 - [Marzneshin](https://github.com/khodedawsh/marzneshin)
